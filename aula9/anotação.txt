@@ -1,0 +1,11 @@
+A saida da função de uma hash é diferente, mesmo com a mesma entrada, de acordo com a hash
+
+calculo matematico = algoritimos
+
+vulnerabilidades:
+
+    Ataque de força bruta: exaustão de dados para tentativa de acerto de senha
+
+    ataque de dicionario: sabendo o usuario de alguem é feito a verificação de senha, uma lista de senha
+
+    rainbow table: guarda o usuario mais não guarda a senha, tentativa de acertar a senha pela hash
